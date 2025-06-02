@@ -1,0 +1,16 @@
+@startuml
+
+actor User as usr
+box "asdfasfd" #lightblue
+database redis as redis
+end box
+autonumber
+
+Alice -> Bob: Authentication Request
+Bob --> Alice: Authentication Response
+note across #moccasin
+asfdfasfasdfasfds
+end note
+Alice -> Bob: Another authentication Request
+Alice <-- Bob: another authentication Response
+@enduml
