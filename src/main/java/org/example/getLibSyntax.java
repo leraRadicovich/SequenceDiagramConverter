@@ -4,7 +4,7 @@ import java.util.regex.*;
 
 import static org.example.PatternStatic.*;
 
-public class getOriginalSyntax {
+public class getLibSyntax {
 
     public static void main(String[] args) {
         try {
