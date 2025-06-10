@@ -4,7 +4,7 @@ import java.util.regex.*;
 
 import static org.example.PatternStatic.*;
 
-public class SequenceDiagramConverter {
+public class getOriginalSyntax {
 
     public static void main(String[] args) {
         try {
